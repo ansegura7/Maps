@@ -3,9 +3,9 @@ Examples of maps with Gmaps, which is a complement to Jupyter to visualize data 
 
 ## Python Dependencies
 ``` console
+    conda install -c anaconda ipywidgets
     conda install -c conda-forge gmaps
     conda install -c conda-forge geopy
-    jupyter nbextension enable --py --sys-prefix widgetsnbextension
 ```
 
 ## Contributing and Feedback
